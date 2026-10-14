@@ -132,5 +132,5 @@ function validateWhatsAppNumber(number) {
 }
 
 // Console log untuk debugging
-console.log('Website Tenda Kekinian berhasil dimuat!');
+console.log('Website YAKINUTAMA berhasil dimuat!');
 console.log('Untuk mengubah nomor WhatsApp, edit file index.html dan ganti 6281234567890 dengan nomor Anda');
